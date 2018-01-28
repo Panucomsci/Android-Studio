@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Introduce2panu</string>
+
+    <string name="txt1">Hello, My name is Panu.</string>
+    <string name="txt2">I just graduated with a Bachelors degree.</string>
+    <string name="txt3">My major is Computer Science.</string>
+    <string name="welcome">Do you want to know about me ?</string>
+    <string name="quest">Do you want to know about me ? [Y/N]</string>
+    <string name="Success">Nice to meet you.</string>
+    <string name="fail">Hold on, dont go!</string>
+    <string name="PUSH"></string>
+    <string name="error">Answer "Y" or "N"</string>
+    <string name="fb">Facebook : facebook.com/numafiaa</string>
+    <string name="line">Line :  numafia90</string>
+
+</resources>
